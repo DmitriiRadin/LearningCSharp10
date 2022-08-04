@@ -1,6 +1,4 @@
-﻿using System.Diagnostics;
-
-namespace LearningCSharp10.Tests;
+﻿namespace LearningCSharp10.Tests;
 
 public class Deconstructors
 {

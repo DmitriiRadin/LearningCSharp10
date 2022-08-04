@@ -1,5 +1,3 @@
-using System;
-
 namespace LearningCSharp10.Tests;
 
 public class Indices
